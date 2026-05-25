@@ -1,0 +1,177 @@
+aid: securiti-ai
+name: Securiti
+description: >-
+  Securiti is a San Jose, California data security, privacy, and AI governance
+  company that markets the Data Command Center, a unified hybrid multicloud
+  platform for sensitive data discovery, classification, security posture
+  management, privacy operations, and AI governance. The platform is built on
+  the Data Command Graph, a knowledge-graph layer that correlates data assets,
+  identities, regulations, and AI systems across 1,000+ pre-built connectors
+  spanning AWS, Azure, Google Cloud, Snowflake, Databricks, and major SaaS
+  applications. Securiti's product surface includes Data Security Posture
+  Management (DSPM), Sensitive Data Intelligence, Data Access Intelligence,
+  Data Flow Governance, Data Minimization, Breach Impact Analysis, Data
+  Subject Request (DSR) Automation, Universal Consent Management, Mobile App
+  Consent SDKs, Assessment Automation, Data Mapping, Privacy Center, the
+  People Data Graph, Data Catalog, Data Lineage, Data Quality, Compliance
+  Management, AI Security and Governance, Agent Commander for AI risk
+  detection, Security for AI Agents and Copilots, and the Gencore AI suite for
+  safe enterprise AI copilots, vector-database synchronization, unstructured
+  data curation, and context-aware LLM firewalls. The platform exposes
+  REST-based APIs, a turnkey JavaScript consent library, standards-based
+  webhook interfaces, no-code/low-code workflow integrations, and native
+  mobile SDKs for iOS and Android consent capture. The API reference, SDKs,
+  consent banner generators, and connector catalog are all reached through
+  the Securiti app and Privacy Center; full API documentation requires an
+  authenticated tenant. Securiti was founded in 2018 by Rehan Jalil and has
+  been recognized as a Gartner Customers' Choice and an IDC Worldwide Leader
+  in data privacy and data security. The company's revenue model is
+  enterprise SaaS subscription with usage-based connector and module pricing;
+  no public free tier or self-serve API key issuance is currently offered.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Data Security
+  - Data Privacy
+  - AI Governance
+  - AI Security
+  - DSPM
+  - Data Command Center
+  - Data Command Graph
+  - Sensitive Data Intelligence
+  - Data Subject Requests
+  - DSR Automation
+  - Consent Management
+  - Universal Consent
+  - Mobile Consent
+  - Data Discovery
+  - Data Classification
+  - Data Mapping
+  - Data Catalog
+  - Data Lineage
+  - Data Quality
+  - Compliance Management
+  - GDPR
+  - CCPA
+  - LGPD
+  - PIPL
+  - EU AI Act
+  - Privacy Operations
+  - Gencore AI
+  - Agent Commander
+  - LLM Firewalls
+  - Vector Databases
+  - Knowledge Graph
+  - Connectors
+  - Hybrid Multicloud
+url: https://raw.githubusercontent.com/api-evangelist/securiti-ai/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://securiti.ai
+  - type: Portal
+    url: https://securiti.ai/privacy-center/developers/
+  - type: Documentation
+    url: https://docs.securiti.ai/api-reference/index.html
+  - type: SignUp
+    url: https://app.securiti.ai
+  - type: Education
+    url: https://education.securiti.ai
+  - type: KnowledgeCenter
+    url: https://securiti.ai/knowledge-center/
+  - type: Products
+    url: https://securiti.ai/products/
+  - type: DSPM
+    url: https://securiti.ai/dspm/
+  - type: AIGovernance
+    url: https://securiti.ai/products/ai-security-governance/
+  - type: GencoreAI
+    url: https://securiti.ai/gencore/
+  - type: AgentCommander
+    url: https://securiti.ai/agent-commander/
+  - type: SafeCopilots
+    url: https://securiti.ai/gencore/safe-enterprise-ai-copilot/
+  - type: LLMFirewalls
+    url: https://securiti.ai/gencore/llm-firewalls/
+  - type: DSRAutomation
+    url: https://securiti.ai/products/data-subject-request-automation/
+  - type: ConsentManagement
+    url: https://securiti.ai/products/consent-management-platform/
+  - type: UniversalConsent
+    url: https://securiti.ai/products/universal-consent/
+  - type: MobileConsent
+    url: https://securiti.ai/products/mobile-app-consent-management/
+  - type: SensitiveDataIntelligence
+    url: https://securiti.ai/products/sensitive-data-intelligence/
+  - type: DataMapping
+    url: https://securiti.ai/products/data-mapping/
+  - type: DataCatalog
+    url: https://securiti.ai/products/data-catalog/
+  - type: DataLineage
+    url: https://securiti.ai/products/data-lineage/
+  - type: DataQuality
+    url: https://securiti.ai/products/data-quality/
+  - type: DataMinimization
+    url: https://securiti.ai/products/rot-data-minimization/
+  - type: BreachManagement
+    url: https://securiti.ai/products/breach-management/
+  - type: BreachImpactAnalysis
+    url: https://securiti.ai/products/data-breach-investigation/
+  - type: AssessmentAutomation
+    url: https://securiti.ai/products/assessment-automation/
+  - type: ComplianceManagement
+    url: https://securiti.ai/products/compliance-management/
+  - type: AccessIntelligence
+    url: https://securiti.ai/products/access-intelligence/
+  - type: DataFlowGovernance
+    url: https://securiti.ai/products/data-streaming-analysis/
+  - type: PeopleDataGraph
+    url: https://securiti.ai/products/people-data-graph/
+  - type: PrivacyCenter
+    url: https://securiti.ai/privacy-center/
+  - type: SecurityForAIAgents
+    url: https://securiti.ai/products/security-for-ai-agents-and-copilots/
+  - type: GitHubOrganization
+    url: https://github.com/securitiai
+  - type: SDK
+    name: Mobile Consent iOS SDK
+    url: https://github.com/securitiai/mobile-consent-sdk-ios
+  - type: Plugin
+    name: Cookie Consent WordPress Plugin
+    url: https://github.com/securitiai/cookie-consent-wordpress-extension
+  - type: Plugin
+    name: Cookie Consent Joomla Plugin
+    url: https://github.com/securitiai/cookie-consent-joomla-extension
+  - type: Plugin
+    name: Google Consent Mode Template
+    url: https://github.com/securitiai/google-consent-mode-template
+  - type: Resources
+    url: https://securiti.ai/resources/
+  - type: Blog
+    url: https://securiti.ai/blog/
+  - type: News
+    url: https://securiti.ai/news/
+  - type: Careers
+    url: https://securiti.ai/careers/
+  - type: Contact
+    url: https://securiti.ai/contact-us/
+  - type: PrivacyPolicy
+    url: https://securiti.ai/privacy-policy/
+  - type: TermsOfService
+    url: https://securiti.ai/terms-of-service/
+  - type: Twitter
+    url: https://twitter.com/SecuritiAI
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/securiti-ai
+  - type: YouTube
+    url: https://www.youtube.com/c/SecuritiAI
+  - type: Forum
+    url: https://join.slack.com/t/privacycentercloud/shared_invite/zt-33rfcwlo7-YcX4uzil6DXJ5C6RPsnvDA
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

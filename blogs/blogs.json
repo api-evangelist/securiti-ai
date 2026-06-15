@@ -2,13 +2,20 @@
   "repo": "securiti-ai",
   "feeds": [
     {
+      "source": "https://securiti.ai/feed/",
+      "feed_url": "https://securiti.ai/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://securiti.ai/resources/",
       "feed_url": "https://securiti.ai/feed/",
       "title": "",
-      "saved": 3,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "post_count": 3,
-  "fetched": "2026-06-01T23:35:02Z"
+  "post_count": 4,
+  "fetched": "2026-06-14T20:42:17Z"
 }

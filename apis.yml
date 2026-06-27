@@ -78,7 +78,7 @@ common:
     url: https://securiti.ai/privacy-center/developers/
   - type: Documentation
     url: https://docs.securiti.ai/api-reference/index.html
-  - type: SignUp
+  - type: Signup
     url: https://app.securiti.ai
   - type: Education
     url: https://education.securiti.ai
@@ -138,7 +138,7 @@ common:
     url: https://securiti.ai/products/security-for-ai-agents-and-copilots/
   - type: GitHubOrganization
     url: https://github.com/securitiai
-  - type: SDK
+  - type: SDKs
     name: Mobile Consent iOS SDK
     url: https://github.com/securitiai/mobile-consent-sdk-ios
   - type: Plugin
@@ -170,7 +170,7 @@ common:
     url: https://www.linkedin.com/company/securiti-ai
   - type: YouTube
     url: https://www.youtube.com/c/SecuritiAI
-  - type: Forum
+  - type: Forums
     url: https://join.slack.com/t/privacycentercloud/shared_invite/zt-33rfcwlo7-YcX4uzil6DXJ5C6RPsnvDA
 maintainers:
   - FN: Kin Lane

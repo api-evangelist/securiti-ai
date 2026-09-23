@@ -1,0 +1,36 @@
+# Front Door AI Index — securiti-ai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: securiti-ai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: securiti.ai
+  final_host: securiti.ai
+  ownership: own
+  owner: securiti-ai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 175
+  host_score: 175
+  density: 55.93
+  words: 3129
+  tiers:
+    agentic: 29
+    core: 145
+    model: 1
+  ambiguous: 41
+  top_terms:
+    AI: 123
+    automation: 16
+    intelligence: 13
+    agent: 12
+    copilot: 12
+    generative ai: 9
+    gen ai: 8
+    AI agent: 7
+    LLMs: 5
+    agentic: 4
+    prompts: 4
+    Gemini: 1

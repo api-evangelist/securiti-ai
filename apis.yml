@@ -56,7 +56,7 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/securiti-ai.png
 tags:
   - Data Security
-  - Data Privacy
+  - Privacy
   - AI Governance
   - AI Security
   - DSPM
@@ -84,7 +84,6 @@ tags:
   - Gencore AI
   - Agent Commander
   - LLM Firewalls
-  - Vector Database
   - Knowledge Graph
   - Connectors
   - Hybrid Multicloud
@@ -118,7 +117,6 @@ tags_raw:
   - Gencore AI
   - Agent Commander
   - LLM Firewalls
-  - Vector Databases
   - Knowledge Graph
   - Connectors
   - Hybrid Multicloud
@@ -233,3 +231,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Vector Database

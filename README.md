@@ -1,4 +1,4 @@
-# securiti-ai
+# Securiti
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Securiti — data security, privacy, and AI governance Data Command Center.
+Securiti is a San Jose, California data security, privacy, and AI governance company that markets the Data Command Center, a unified hybrid multicloud platform for sensitive data discovery, classification, security posture management, privacy operations, and AI governance. The platform is built on the Data Command Graph, a knowledge-graph layer that correlates data assets, identities, regulations, and AI systems across 1,000+ pre-built connectors spanning AWS, Azure, Google Cloud, Snowflake, Databricks, and major SaaS applications. Securiti's product surface includes Data Security Posture Management (DSPM), Sensitive Data Intelligence, Data Access Intelligence, Data Flow Governance, Data Minimization, Breach Impact Analysis, Data Subject Request (DSR) Automation, Universal Consent Management, Mobile App Consent SDKs, Assessment Automation, Data Mapping, Privacy Center, the People Data Graph, Data Catalog, Data Lineage, Data Quality, Compliance Management, AI Security and Governance, Agent Commander for AI risk detection, Security for AI Agents and Copilots, and the Gencore AI suite for safe enterprise AI copilots, vector-database synchronization, unstructured data curation, and context-aware LLM firewalls. The platform exposes REST-based APIs, a turnkey JavaScript consent library, standards-based webhook interfaces, no-code/low-code workflow integrations, and native mobile SDKs for iOS and Android consent capture. The API reference, SDKs, consent banner generators, and connector catalog are all reached through the Securiti app and Privacy Center; full API documentation requires an authenticated tenant. Securiti was founded in 2018 by Rehan Jalil and has been recognized as a Gartner Customers' Choice and an IDC Worldwide Leader in data privacy and data security. The company's revenue model is enterprise SaaS subscription with usage-based connector and module pricing; no public free tier or self-serve API key issuance is currently offered.
+
+**Areas:** Data Security · Privacy · AI Governance · AI Security · DSPM · Data Command Center · Data Command Graph · Sensitive Data Intelligence · Data Subject Requests · DSR Automation · Consent Management · Universal Consent
+
+## Securiti on APIs.io
+
+Everything profiled for Securiti is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/securiti-ai/](https://apis.io/providers/securiti-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Securiti Ai Domain Security](https://apis.io/security/securiti-ai/securiti-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://securiti.ai)
+- [Documentation](https://docs.securiti.ai/api-reference/index.html)
+- [Blog](https://securiti.ai/blog/)
+- [Terms of service](https://securiti.ai/terms-of-service/)
+- [Privacy policy](https://securiti.ai/privacy-policy/)
+- [GitHub](https://github.com/securitiai)
+
+## API Evangelist rating
+
+**Kin Score 14.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 23.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/securiti-ai/](https://apis.io/providers/securiti-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Securiti: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/securiti-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
